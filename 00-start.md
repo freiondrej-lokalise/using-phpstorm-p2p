@@ -9,7 +9,7 @@ It is true that changing a habit is difficult and uncomfortable. Also, for some 
 # Note
 
 Throughout this repository, I'm not mentioning any keyboard shortcuts. Instead, I am mentioning the name of the action formatted `like this`, so that you can find the action in Settings > Keymap and configure your own keyboard shortcut.
-You can just hit double Shift and type the name of the action, that works too :) 
+You can just hit double Shift and type the name of the action, that works too :) (although not for all of them).
 
 I recommend thinking about your own context and choosing your own shortcuts instead of relying on the prebuilt ones - you might like them, but I did not and I much prefer mine.
 
