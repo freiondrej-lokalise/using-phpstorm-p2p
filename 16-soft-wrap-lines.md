@@ -1,0 +1,1 @@
+To never have to scroll right and left in your files, go to Settings > Editor > General and check "Soft-wrap these files" with a value "*". You will then see how even a rather long line of text, just like this one, simply wraps and will help you see it comfortably.
