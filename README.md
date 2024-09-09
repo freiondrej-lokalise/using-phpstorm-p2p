@@ -14,3 +14,24 @@ You can just hit double Shift and type the name of the action, that works too :)
 After you get familiar with the default shortcuts, I recommend thinking about your own context and choosing your own shortcuts instead of relying on the prebuilt ones - you might like them, but I did not and I much prefer mine.
 
 I can recommend plugin Key Promoter X, it shows you which actions you do repeatedly and reminds you to create a shortcut for them.
+
+# Contents
+
+- [Hiding Tabs](01-hiding-tabs.md) 
+- [Paste from History](02-paste-from-history.md)
+- [Extend Selection](03-extend-selection.ts)
+- [Git Navigation](04-git-navigation.ts)
+- [Complete Current Statement](05-complete-current-statement.ts)
+- [Tab vs Enter](06-tab-vs-enter.ts)
+- [Navigation](07-navigation.ts)
+- [Generate](08-generate.ts)
+- [Run](09-run.ts)
+- [Terminal and Esc](10-terminal-and-escape.md)
+- [Context Actions](11-context-actions.ts)
+- [Live Templates](12-live-templates.ts)
+- [Rename](13-rename.ts)
+- [Back and Forward](14-back-and-forward.ts)
+- [Go to Line](15-go-to-line.ts)
+- [Soft-wrap Lines](16-soft-wrap-lines.md)
+- [Introduce Variable](17-introduce-variable.ts)
+- [Clear Terminal](18-clear-terminal.md)
