@@ -1,3 +1,10 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Copy several different words in this file. Then invoke `Paste from history` and paste the copied words below.
 
 Once the dialog is open, you can use the mouse, the keyboard arrows and Enter, or you can also hit a number on your keyboard and this will insert the item with that slot. Just keep in mind that with every paste this gets reordered (the most recent paste goes to slot 1).

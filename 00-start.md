@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Welcome!](#welcome)
+- [Note](#note)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Welcome!
 
 Many years ago, my life changed thanks to a video about how to use Phpstorm. Since then, not only I started using the suggestions from the video, but more importantly, the video **changed my mindset**. 
